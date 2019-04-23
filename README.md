@@ -1,2 +1,4 @@
-# linux-gcc
-Introduccion a linux y a gcc
+# Introduccion a Linux
+
+Introduccion a linux
+
